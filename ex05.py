@@ -1,3 +1,5 @@
+# Exercise 5: More Variables And Printing
+
 my_name = 'Jungmin Cha'
 my_age = 27 # not a lie
 my_height = 74 # inches
